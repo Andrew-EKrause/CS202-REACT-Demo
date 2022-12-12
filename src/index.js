@@ -1,17 +1,11 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+// Import dependencies to enable component
+// interaction and rendering. Import the 
+// main component, App, as well.
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./components/App";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
+// This is the "core" of the project. It calls the 
+// main component and renders elements on the screen.
+ReactDOM.render(<App />, document.getElementById("root"));
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
