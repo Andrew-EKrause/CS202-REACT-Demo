@@ -10,7 +10,7 @@ If you do not already have node and npm installed on your device, you will want 
 
 Next, in the project directory (just make sure you in the same location as the .gitignore file), you can run:
 
-### `npm start`
+### `npm start` <-- Running the project this way is recommended
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
