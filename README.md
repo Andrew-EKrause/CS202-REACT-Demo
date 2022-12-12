@@ -8,7 +8,7 @@ If you do not already have node and npm installed on your device, you will want 
 
 ### `npm install -g npm`
 
-Next, in the project directory, you can run:
+Next, in the project directory (just make sure you in the same location as the .gitignore file), you can run:
 
 ### `npm start`
 
