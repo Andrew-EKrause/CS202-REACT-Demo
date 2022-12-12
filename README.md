@@ -4,7 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+If you do not already have node and npm installed on your device, you will want to install it in order to run the project. You can do this by searching how to install node and npm online (visit [Install Node Package Manager](https://nodejs.org/de/download/package-manager/) for details). Otherwise, try running the following command:
+
+### `npm install -g npm`
+
+Next, in the project directory, you can run:
 
 ### `npm start`
 
